@@ -8,14 +8,14 @@
 The reference book was created in Python as a laboratory assignment for the lesson "Working with files"
 Using the command line, the user can interact with the directory by entering commands:
 
-- Добавить запись в справочник: add_person
-- Прочитать записи: show_table
-- Скопировать запись: copy_person
-- Скопировать весь справочник: copy_table
-- Удалить запись: delete_person
-- Очистить вторую таблицу: clear_copy_table
-- Показать скопированный справочник show_copy_table
-- Выйти: exit
+- Add an entry to the directory: add_person
+- Read entries: show_table
+- Copy Entry: copy_person
+- Copy the entire directory: copy_table
+- Delete an entry: delete_person
+- Clear the second table: clear_copy_table
+- Show the copied reference book show_copy_table
+- Exit: exit
 
 ## Plugins
 
